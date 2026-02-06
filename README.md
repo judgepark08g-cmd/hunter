@@ -2,6 +2,10 @@
 웹 API트래픽을 시각화하고, 데이터 유출 가능성을 자동으로 알려주는 chrome devtools (크롬 확장기능) 입니다.
 (Hunter is a Chrome DevTools extension designed to visualize web API traffic and automatically alert you to potential data leaks.)
 
+## 사용법
+- F12 버튼을 누른후 상단 텝 메뉴(Network, Consloe 등) 오른쪽 끝에있는 >> 아이콘을 클릭후 Hunter를 누르면 실행이 됩니다.
+- Instruction: After pressing the F12 key, click the >> (More tabs) icon at the far right of the top menu bar (next to Network, Console, etc.), then select Hunter to launch the tool.
+  
 ## 왜 이 도구가 필요한가요? (Why Hunter?)
 chrome의 network 탭은 강력하지만
 - 토큰이나 API key가 노출된 것인지 판단해주지 않고
