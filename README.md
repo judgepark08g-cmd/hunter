@@ -55,4 +55,4 @@ chrome의 network 탭은 강력하지만
 This project is personally developed and maintained by a student developer.If Hunter has been helpful to you, please consider supporting the project:
 - bank: KakaoBank (South Korea)
 - Account: 7777-03-4195884
-- name : 박재성
+- name : 박재성 
