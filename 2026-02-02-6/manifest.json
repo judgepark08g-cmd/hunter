@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "Network Hunter Pro",
+  "version": "1.2",
+  "description": "도메인별 그룹화 및 TXT 저장 기능",
+  "devtools_page": "devtools.html"
+}
