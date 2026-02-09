@@ -19,7 +19,7 @@ chrome의 network 탭은 강력하지만
 - 토큰, 키 등 민감 데이터 노출 가능성 자동감지
 - 요청 데이터 수정 후 재실행
 - API 요청을 기반으로 한 문서 생성(swagger)
-- 분석 결과 기포트 다운로드
+- 분석 결과 리포트 다운로드
 - API Traffic Visualization: Clear visualization of request and response flow.
 - Sensitive Data Detection: Automatic alerts for exposed tokens, keys, and other sensitive information.
 - Request Tampering: Modify and replay requests directly within the tool.
