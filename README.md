@@ -63,3 +63,4 @@ This project is personally developed and maintained by a student developer.If Hu
 
 ## 업데이트(update)
 - 2026-02-09 : 오탐 개선(improvement of false positives)
+- 2026-02-19-2 : 일부 버그개선및 리포트 응답시간 추가(Minor bug fixes and added response time for reports.)
