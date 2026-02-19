@@ -1,1 +1,0 @@
-chrome.devtools.panels.create("Hunter", null, "panel.html", null);
